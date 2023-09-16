@@ -1,6 +1,6 @@
-# 🦉 Gokra 🇧🇷
+# 🦉 Gokra
 
-## Back-end programmer
+## Back-end programmer, from 🇧🇷
 
 Hello, I'm Vinicius, a professional in the field of programming, passionate about technology and innovation.
 
