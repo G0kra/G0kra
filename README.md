@@ -1,4 +1,4 @@
-# 🦉 ;Gokra
+# 🦉 Gokra
 
 ## Back-end programmer
 
